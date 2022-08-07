@@ -7,7 +7,7 @@ Automatic covid dashboard for displaying accurate, up to date covid data and new
  - [Config File](#config_file)
  - [How To Use Application](#How_To_Use_Application)
  - [Disclaimer](#Disclaimer)
- - [Author](#Author)
+ - [Author](#author)
 
 
 ## Features
@@ -46,7 +46,7 @@ After this, ensure you are in the root directory before running
 
 If this doesn't work try running `python -m pytest`
 
-## How_To_Use_Application
+## How To Use Application
 When the website loads you will see three different sections.
 
 In the centre of the dashboard you will see the local 7 day cases, national 7 day cases, hospital cases and total deaths( currently displays no values)
@@ -55,5 +55,5 @@ On the left hand side of the dashboard you will see the scheduled updates. When 
 
 On the right hand side you will see a list of news articles that when removed will not appear again.
 
-##Author
+## Author
 Tharun Veluri
