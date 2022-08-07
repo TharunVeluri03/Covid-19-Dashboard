@@ -1,0 +1,65 @@
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:43 - The local number of cases in the last 7 days was fetched successfully from API
+08-Aug-22 01:04:43 - The national number of cases in the last 7 days was fetched successfully from API
+08-Aug-22 01:04:43 - The total nationa deaths was fetched successfully
+08-Aug-22 01:04:43 - The total national hospital cases was fetched successfully
+08-Aug-22 01:04:43 - Covid articles fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - Local 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - National 7 Day Cases fetched successfully
+08-Aug-22 01:04:46 - The local number of cases in the last 7 days was fetched successfully from API
+08-Aug-22 01:04:46 - The national number of cases in the last 7 days was fetched successfully from API
+08-Aug-22 01:04:46 - The total nationa deaths was fetched successfully
+08-Aug-22 01:04:46 - The total national hospital cases was fetched successfully
+08-Aug-22 01:04:46 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+08-Aug-22 01:04:50 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:04:50 - 127.0.0.1 - - [08/Aug/2022 01:04:50] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:04:52 - 127.0.0.1 - - [08/Aug/2022 01:04:52] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:05:52 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:05:52 - 127.0.0.1 - - [08/Aug/2022 01:05:52] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:05:54 - 127.0.0.1 - - [08/Aug/2022 01:05:54] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:06:52 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:06:52 - 127.0.0.1 - - [08/Aug/2022 01:06:52] "GET /index?notif=%5B%5B%27No+new+daily+COVID+cases+in+Macau+for+first+time+in+over+a+month+-+Reuters%27%5D%5D HTTP/1.1" 200 -
+08-Aug-22 01:06:53 - 127.0.0.1 - - [08/Aug/2022 01:06:53] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:07:54 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:07:54 - 127.0.0.1 - - [08/Aug/2022 01:07:54] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:07:55 - 127.0.0.1 - - [08/Aug/2022 01:07:55] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:08:56 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:08:56 - 127.0.0.1 - - [08/Aug/2022 01:08:56] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:08:57 - 127.0.0.1 - - [08/Aug/2022 01:08:57] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:09:58 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:09:58 - 127.0.0.1 - - [08/Aug/2022 01:09:58] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:09:59 - 127.0.0.1 - - [08/Aug/2022 01:09:59] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:11:42 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:11:42 - 127.0.0.1 - - [08/Aug/2022 01:11:42] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:11:44 - 127.0.0.1 - - [08/Aug/2022 01:11:44] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:12:45 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:12:45 - 127.0.0.1 - - [08/Aug/2022 01:12:45] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:12:46 - 127.0.0.1 - - [08/Aug/2022 01:12:46] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+08-Aug-22 01:13:47 - Flask for Covid Dashboard page started successfully
+08-Aug-22 01:13:47 - 127.0.0.1 - - [08/Aug/2022 01:13:47] "GET /index HTTP/1.1" 200 -
+08-Aug-22 01:13:48 - 127.0.0.1 - - [08/Aug/2022 01:13:48] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
